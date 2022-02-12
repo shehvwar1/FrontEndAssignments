@@ -1,0 +1,126 @@
+/* *
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+.solid__border
+{
+    /* margin: 20px; */
+    border: #9cb588 3px solid;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #67a681;
+    padding: 10px;
+    width: 20%;
+    margin-left: 40%;
+}
+.dashed__border
+{
+    margin: 20px;
+    border: #8f56a3 3px dashed;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #c95fcf;
+    padding: 10px;
+    width: 40%;
+    margin-left: 30%;
+}
+.double__border
+{
+    margin: 20px;
+    border: #cfa45f 5px double;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #a86c65;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+.dotted__border
+{
+    margin: 20px;
+    border: #d9456d 3px dotted;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ed686f;
+    padding: 10px;
+    width: 90%;
+    margin-left: 5%;
+}
+.mixed__border
+{
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #726c73;
+    padding: 10px;
+    border-top: #729e86 3px solid;
+    border-right: #685f9e 3px dashed;
+    border-bottom: #5f9e5f 6px double;
+    border-left: #9e5f9e 3px dotted;
+}
+h1
+{
+    text-align: center;
+}
+.grove__style
+{
+    margin: 20px;
+    border: #d9456d 3px groove;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ed686f;
+    padding: 10px;
+    width: 90%;
+    margin-left: 5%;
+}
+.ridgeborder__style
+{
+    margin: 20px;
+    border: #d9456d 3px ridge;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ed686f;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+ 
+}
+.insetborder__style
+{
+    margin: 20px;
+    border: #d9456d 3px inset;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ed686f;
+    padding: 10px;
+    width: 40%;
+    margin-left: 30%;
+   
+
+}
+.outsetborder__style
+{
+    margin: 20px;
+    border: #d9456d 3px outset;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ed686f;
+    padding: 10px;
+    width: 20%;
+    margin-left: 40%;
+}
